@@ -1,1 +1,0 @@
-# Without-Interface-Segregation-Principle
